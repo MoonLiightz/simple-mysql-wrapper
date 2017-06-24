@@ -1,0 +1,22 @@
+{
+  "name": "simple-mysql-wrapper",
+  "description": "A simple wrapper for the node.js mysql module.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Patrick Stebbe <info@moonliightz.de>",
+  "main": "index.js",
+  "bugs": {
+    "email": "info@moonliightz.de",
+    "url": "https://github.com/MoonLiightz/simple-mysql-wrapper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoonLiightz/simple-mysql-wrapper.git"
+  },
+  "dependencies": {
+    "mysql": "2.13.0"
+  },
+  "engines": {
+    "node": ">= 0.6"
+  }
+}
