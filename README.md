@@ -26,7 +26,7 @@ This module helps me to create / handle very easy more than one database connect
 The module is currently only available on github, so use the following command for install:
 
 ```sh
-$ npm install https://github.com/MoonLiightz/simple-mysql-wrapper/archive/v0.1.0.tar.gz
+$ npm install https://github.com/MoonLiightz/simple-mysql-wrapper/archive/v0.1.0.tar.gz --save
 ```
 
 ## Usage
