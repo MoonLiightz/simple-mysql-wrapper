@@ -23,10 +23,10 @@ This module helps me to create / handle very easy more than one database connect
 
 ## Install
 
-The module is currently only available on github, so use the following command for install:
+The module is currently only available on github, so use the following command to install:
 
 ```sh
-$ npm install https://github.com/MoonLiightz/simple-mysql-wrapper/archive/v0.1.0.tar.gz --save
+$ npm install https://github.com/MoonLiightz/simple-mysql-wrapper/archive/v0.1.1.tar.gz --save
 ```
 
 ## Usage
@@ -108,4 +108,4 @@ Callback of mysql disconnect
 ## Examples
 
 - You find some examples here: [simple-mysql-wrapper/examples/](https://github.com/MoonLiightz/simple-mysql-wrapper/tree/master/examples) 
-- For more details about the configuration or anything  else look at the original [mysql](https://github.com/mysqljs/mysql) module.
+- For more details about the configuration or anything else look at the original [mysql](https://github.com/mysqljs/mysql) module.
