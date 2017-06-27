@@ -1,6 +1,6 @@
 'use strict';
 
-const mysql_helper = function(config) {
+const simple_mysql_wrapper = function(config) {
     this._config = config;
     this._connection = null;
     this.connect = require('./lib/connect').bind(this);
@@ -9,4 +9,4 @@ const mysql_helper = function(config) {
     return this;
 };
 
-module.exports = mysql_helper;
+module.exports = simple_mysql_wrapper;
